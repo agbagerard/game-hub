@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { FetchResponse } from "./useData";
+import { FetchResponse } from "../services/api-clients";
 import apiClients from "../services/api-clients";
 
 
